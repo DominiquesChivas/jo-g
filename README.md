@@ -5,6 +5,8 @@ this is the landing page, showing Joji as the background image and transparent n
 ![image](https://github.com/DominiquesChivas/jo-g/assets/101805732/4bece475-55c7-4140-8fc1-e2957c2181a8)
 
 here is the footer that inspired by netflix.com footer
+![image](https://github.com/DominiquesChivas/jo-g/assets/101805732/8c48e36d-717d-450e-aadc-8aeb5b5b02f2)
+
 
 this is the merchandise page
 
